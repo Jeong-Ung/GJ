@@ -18,4 +18,4 @@ GJ.REL : RELATIVE LOCATION RESULTS (via HypoDD)
 4th column : Focal depth
 
 When you use the data in GJ projects, please site the paper below:
-Geophysical Journal International, The 2016 Gyeongju earthquake sequence revisited: Aftershock interactions within a complex fault system, J. Woo, J. Rhie, S. Kim, T. Kang, K. Kim, and Y. Kim, 2019. 
+Geophysical Journal International, The 2016 Gyeongju earthquake sequence revisited: Aftershock interactions within a complex fault system, J. Woo, J. Rhie, S. Kim, T. Kang, K. Kim, and Y. Kim, 2019, in press. 
