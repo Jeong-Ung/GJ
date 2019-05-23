@@ -2,7 +2,8 @@
 # made by J. Woo (29/12/2018)
 
 GJ.ABS : NOT refined 2931 ABSOLUTE LOCATION RESULTS (via Hypoellipse)
-1st column : ID
+
+1st column : ID //
 2nd column : Event latitude
 3rd column : Event Longitude
 4th column : Focal depth
