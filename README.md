@@ -1,5 +1,4 @@
-# GJ
-# made by J. Woo (29/12/2018)
+# GJ project made by J. Woo (29/12/2018)
 
 GJ.ABS : NOT refined 2931 ABSOLUTE LOCATION RESULTS (via Hypoellipse)  
 1st column : Event ID  
