@@ -1,6 +1,6 @@
 # GJ
 # made by J. Woo (29/12/2018)
-GJ.ABS : ABSOLUTE LOCATION RESULTS (via Hypoellipse)
+GJ.ABS : NOT refined 2931 ABSOLUTE LOCATION RESULTS (via Hypoellipse)
 1st column : ID
 2nd column : Event latitude
 3rd column : Event Longitude
@@ -11,6 +11,9 @@ GJ.ABS : ABSOLUTE LOCATION RESULTS (via Hypoellipse)
 7th column : Event minute
 8th column : Event second
 
+GJ.ABS : Refined 2848 ABSOLUTE LOCATION RESULTS (via Hypoellipse)
+The format of the file is same with GJ.ABS but contains the 2848 events that are manually inspected.
+
 GJ.REL : RELATIVE LOCATION RESULTS (via HypoDD)
 1st column : ID
 2nd column : Event latitude
@@ -18,4 +21,4 @@ GJ.REL : RELATIVE LOCATION RESULTS (via HypoDD)
 4th column : Focal depth
 
 When you use the data in GJ projects, please site the paper below:
-Geophysical Journal International, The 2016 Gyeongju earthquake sequence revisited: Aftershock interactions within a complex fault system, J. Woo, J. Rhie, S. Kim, T. Kang, K. Kim, and Y. Kim, 2019, in press. 
+Woo, J. U., Rhie, J., Kim, S., Kang, T. S., Kim, K. H., & Kim, Y. (2019). The 2016 Gyeongju earthquake sequence revisited: aftershock interactions within a complex fault system. Geophysical Journal International, 217(1), 58-74.
